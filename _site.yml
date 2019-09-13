@@ -1,12 +1,14 @@
 name: "Site name"
 output_dir: "."
 navbar:
-  title: "Alice Lampard"
+  title: ""
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "News"
+      href: news.html
     - text: "Contact"
       href: Contact.html
 output:
