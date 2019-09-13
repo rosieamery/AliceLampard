@@ -1,0 +1,14 @@
+name: "Site name"
+output_dir: "."
+navbar:
+  title: "Alice Lampard"
+  left:
+    - text: "Home"
+      href: Index.html
+    - text: "About"
+      href: about.html
+    - text: "Contact"
+      href: Contact.html
+output:
+  html_document:
+    theme: flatly
