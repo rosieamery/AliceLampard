@@ -13,4 +13,4 @@ navbar:
       href: Contact.html
 output:
   html_document:
-    theme: flatly
+    css: styles.css
