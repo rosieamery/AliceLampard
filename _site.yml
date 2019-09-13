@@ -4,7 +4,7 @@ navbar:
   title: "Alice Lampard"
   left:
     - text: "Home"
-      href: Index.html
+      href: index.html
     - text: "About"
       href: about.html
     - text: "Contact"
