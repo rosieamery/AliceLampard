@@ -1,14 +1,18 @@
 ---
-title: "Alice Lampard"
+title: ""
 ---
+
+<br>
+<center>
+### Accredited Mediator and Change/Performance Coach
+
+<br>
+
+![](Logo.png)
+
+
+<br>
 
 "Providing effective mediation to enable disputing parties to achieve outcomes they don't regret."
 
-Accredited Mediator and Change/Performance Coach
-
-<br>
-
-![](Profile picture.jpg)
-
-<br>
-
+</center>
